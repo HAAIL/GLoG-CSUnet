@@ -11,7 +11,7 @@ This repository contains the benchmarks, results, and all the code required to r
 create a folder named "data" in the root directory of the project and download the datasets from the following links:
 - Synapse dataset can be found at [the repo of TransUnet](https://github.com/Beckschen/TransUNet). 
 
-- ACDC dataset can be found at [the repo of MT-Unet](https://drive.google.com/file/d/13qYHNIWTIBzwyFgScORL2RFd002vrPF2/view?usp=sharing)
+- ACDC dataset can be found at [the repo of MT-Unet](https://zenodo.org/records/15038913)
 
 place the downloaded datasets in the `data\ACDC` or `data\Synapse` folder.
 
